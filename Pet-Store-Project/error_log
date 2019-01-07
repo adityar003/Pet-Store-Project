@@ -1,0 +1,30 @@
+[12-Nov-2018 21:28:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+adityara_wdm2018'@'localhost' (using password: YES) in /home/adityara/public_html/Assignment_4/validation.php on line 2
+[12-Nov-2018 21:29:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+adityara_wdm2018'@'localhost' (using password: YES) in /home/adityara/public_html/Assignment_4/validation.php on line 2
+[12-Nov-2018 21:34:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+adityara_wdm2018'@'localhost' (using password: YES) in /home/adityara/public_html/Assignment_4/validation.php on line 2
+[12-Nov-2018 21:34:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+adityara_wdm2018'@'localhost' (using password: YES) in /home/adityara/public_html/Assignment_4/validation.php on line 2
+[12-Nov-2018 21:34:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+adityara_wdm2018'@'localhost' (using password: YES) in /home/adityara/public_html/Assignment_4/validation.php on line 2
+[12-Nov-2018 21:34:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+adityara_wdm2018'@'localhost' (using password: YES) in /home/adityara/public_html/Assignment_4/validation.php on line 2
+[12-Nov-2018 21:34:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+adityara_wdm2018'@'localhost' (using password: YES) in /home/adityara/public_html/Assignment_4/validation.php on line 2
+[12-Nov-2018 21:34:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+adityara_wdm2018'@'localhost' (using password: YES) in /home/adityara/public_html/Assignment_4/validation.php on line 2
+[12-Nov-2018 21:35:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+adityara_wdm2018'@'localhost' (using password: YES) in /home/adityara/public_html/Assignment_4/validation.php on line 2
+[12-Nov-2018 21:38:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+adityara_wdm2018'@'localhost' (using password: YES) in /home/adityara/public_html/Assignment_4/Client.php on line 4
+[12-Nov-2018 21:38:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+adityara_wdm2018'@'localhost' (using password: YES) in /home/adityara/public_html/Assignment_4/Client.php on line 4
+[13-Nov-2018 00:26:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+adityara_wdm2018'@'localhost' (using password: YES) in /home/adityara/public_html/Assignment_4/Login.php on line 11
+[13-Nov-2018 00:28:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+adityara_wdm2018'@'localhost' (using password: YES) in /home/adityara/public_html/Assignment_4/Login.php on line 11
+[13-Nov-2018 01:00:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+adityara_wdm2018'@'localhost' (using password: YES) in /home/adityara/public_html/Assignment_4/Login.php on line 11
+[13-Nov-2018 04:08:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+adityara_wdm2018'@'localhost' (using password: YES) in /home/adityara/public_html/Assignment_4/password_change.php on line 7
